@@ -1,6 +1,6 @@
 # 처음 설치 때 dpkg 오류
 
-![image.png](../errors/image.png)
+![image.png](../images/image.png)
 
 요약하면 두 가지가 겹쳤어요.
 
