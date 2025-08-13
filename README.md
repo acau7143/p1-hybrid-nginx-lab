@@ -1,3 +1,14 @@
-# P1 하이브리드 Nginx 실습 - Day1
-- 목표: VM 생성, SSH 접속, GitHub 연동
-- 진행상태: [x] Day1
+## Day 1 — VM 생성 & SSH 접속 & GitHub 연동
+- 목표: VM 생성, SSH 서버 활성화, GitHub SSH 키 등록
+- 결과: VM에 SSH 접속 성공, GitHub push 가능
+- 관련 파일:
+  - `scripts/2025-08-10.sh`
+  - `diary/2025-08-10.md`
+
+## Day 2 — nginx 설치 & 접속 확인
+- 목표: nginx 설치 및 브라우저 접속
+- 결과: nginx welcome 페이지 접속 성공
+- 관련 파일:
+  - `scripts/2025-08-13.sh`
+  - `diary/2025-08-13.md`
+  - `images/day2-nginx-welcome.png`
