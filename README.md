@@ -2,13 +2,12 @@
 - 목표: VM 생성, SSH 서버 활성화, GitHub SSH 키 등록
 - 결과: VM에 SSH 접속 성공, GitHub push 가능
 - 관련 파일:
-  - `scripts/2025-08-10.sh`
-  - `diary/2025-08-10.md`
+  - [2025-08-10.sh](scripts/2025-08-10.sh)
+  - [2025-08-10.md](./diary/2025-08-10.md)
 
 ## Day 2 — nginx 설치 & 접속 확인
 - 목표: nginx 설치 및 브라우저 접속
 - 결과: nginx welcome 페이지 접속 성공
 - 관련 파일:
-  - `scripts/2025-08-13.sh`
-  - `diary/2025-08-13.md`
-  - `images/day2-nginx-welcome.png`
+  - [2025-08-13.sh](./scripts/2025-08-13.sh)
+  - [2025-08-13.md](./diary/2025-08-13.md)
