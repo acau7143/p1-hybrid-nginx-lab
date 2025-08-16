@@ -23,5 +23,5 @@
 - 목표: EC2 Ubuntu에 nginx 설치, 80 포트 오픈 후 외부 접속
 - 결과: nginx welcome/커스텀 페이지 접속 성공
 - 관련 파일:
-  - [2025-08-16-day4.sh](./scripts/2025-08-16-day4.sh)
-  - [2025-08-16-day4.md](./diary/2025-08-16-day4.md)
+  - [2025-08-16-day04.sh](./scripts/2025-08-16-day04.sh)
+  - [2025-08-16-day04.md](./diary/2025-08-16-day04.md)
