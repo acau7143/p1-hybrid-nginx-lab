@@ -30,5 +30,5 @@
 - 목표: 온프레미스 VM에서 AWS EC2까지 ping / traceroute 테스트
 - 결과: ping 정상 응답(0% 손실, RTT 약 215~222ms), traceroute는 중간 hop 차단으로 `* * *` 표시됨 (정상 현상)
 - 관련 파일:
-  - [2025-09-05-day05.sh](./scripts/2025-09-05-day05.sh)
-  - [2025-09-05-day05.md](./diary/2025-09-05-day05.md)
+  - [2025-09-05.sh](./scripts/2025-09-05.sh)
+  - [2025-09-05.md](./diary/2025-09-05.md)
